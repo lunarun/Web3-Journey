@@ -15,7 +15,7 @@
 |              |            |           |        |
 
 ## 📚 Course Code
-- [01_HelloWeb3.sol](contracts/01_HelloWeb3.sol)  
+- [01_HelloWeb3.sol](contracts/01_HelloWeb3)  
 - [02_ValueTypes.sol](contracts/ValueTypes.sol)  
 
 ## 📝 Study Notes
