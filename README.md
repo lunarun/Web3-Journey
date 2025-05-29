@@ -15,7 +15,7 @@
 |              |            |           |        |
 
 ## 📚 Course Code
-- [01_HelloWeb3.sol](contracts/01_HelloWeb3)  
+- [01_HelloWeb3.sol](https://gist.github.com/lunarun/dd5729a5d3eb59a8beeb39e23b080e0c)  
 - [02_ValueTypes.sol](contracts/ValueTypes.sol)  
 
 ## 📝 Study Notes
