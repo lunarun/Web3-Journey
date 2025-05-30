@@ -1,6 +1,6 @@
 # 🎯 01: HelloWeb3 & Smart Contract Fundamentals
 
-**Related Code:** [`01_HelloWTF.sol`](../contracts/01_HelloWeb3)
+**Related Code:** [`01_HelloWTF.sol`](https://gist.github.com/lunarun/dd5729a5d3eb59a8beeb39e23b080e0c)
 
 ## 📌 1. Core Solidity Structure
 ```solidity
