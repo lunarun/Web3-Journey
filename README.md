@@ -19,8 +19,8 @@
 - [02_ValueTypes.sol](contracts/ValueTypes.sol)  
 
 ## 📝 Study Notes
-- [Lesson1：HelloWeb3](notes/01-HelloWeb3.md)
-- [Lesson2：Value Types](notes/02-Value-Types.md)
+- [01-HelloWeb3.md](notes/01-HelloWeb3.md)
+- [02-Value Types.md](notes/02-Value-Types.md)
 
 ## 📅 Learning Logs
 - [2025-05-28：WTF-Solidity-Lesson 1 & 2](daily-logs/2025-05-28-WTF-Solidity-Lesson1-2.md)
