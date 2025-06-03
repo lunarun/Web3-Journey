@@ -1,3 +1,6 @@
 [submodule "contracts/01_HelloWeb3"]
 	path = contracts/01_HelloWeb3
 	url = https://gist.github.com/dd5729a5d3eb59a8beeb39e23b080e0c.git
+[submodule "contracts/02_ValueType"]
+	path = contracts/02_ValueType
+	url = https://gist.github.com/24932aa8916572d778f64546776972d4.git
