@@ -2,7 +2,7 @@
 
 **Lesson Source:** [WTF Solidity - Lesson 2: Value Types](https://www.wtf.academy/en/course/solidity101/ValueTypes)
 
-**Related Code:** [`02_ValueTypes.sol`]()
+**Related Code:** [`02_ValueTypes.sol`](https://gist.github.com/lunarun/24932aa8916572d778f64546776972d4)
 
 ---
 
