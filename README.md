@@ -34,6 +34,7 @@ pnpm install
 
 # run test (have installed)
 pnpm hardhat test
+```
 
 ## 🛠️ Project Showcase
 | Project Name | Tech Stack | Demo Link | Status |
