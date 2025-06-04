@@ -47,15 +47,12 @@ pnpm hardhat test
 
 
 ## 📚 Course Code
-- [01_HelloWeb3.sol](https://gist.github.com/lunarun/dd5729a5d3eb59a8beeb39e23b080e0c)  
-- [02_ValueTypes.sol](contracts/ValueTypes.sol)  
+- [01_HelloWeb3.sol](labs/01_hello-web3/contract.sol)  
+- [02_ValueTypes.sol](labs/02_value_types/contract.sol)  
 
 ## 📝 Study Notes
 - [01-HelloWeb3.md](notes/01-HelloWeb3.md)
 - [02-Value Types.md](notes/02-Value-Types.md)
-
-## 📅 Learning Logs
-- [2025-05-28：WTF-Solidity-Lesson 1 & 2](daily-logs/2025-05-28-WTF-Solidity-Lesson1-2.md)
 
 ## 🤝 Support Me
 - **Star this repository**：Motivate me to keep updating!
