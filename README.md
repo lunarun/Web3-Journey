@@ -27,7 +27,7 @@
 
 ## ⚡  Quick Start
 ```bash
-git clone https://github.com/your-github-id/web3-journey.git
+git clone https://github.com/lunarun/Web3-Journey.git
 cd web3-journey
 
 pnpm install
