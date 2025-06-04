@@ -43,6 +43,29 @@ pnpm hardhat test
 
 ## 📬 Recent Progress
 - 2025-05-30: Completed 01 Hello Web3 Contract & Notes
+- 2025-06-03: Completed 02 & 03 Value Types & Function Contract & Notes
+
+## 100-Day Roadmap
+
+```mermaid
+gantt
+    title Web3 Transformation Timeline
+    dateFormat YYYY-MM-DD
+    axisFormat %m-%d
+    
+    section Core Skills
+    Solidity Fundamentals :done, des1, 2025-06-01, 7d
+    Ethers.js Mastery :active, des2, 2025-06-08, 14d
+    Wagmi Integration : des3, after des2, 10d
+    
+    section Projects
+    NFT Gallery :done, proj1, 2025-06-10, 5d
+    DeFi Protocol Interface :active, proj2, 2025-06-16, 7d
+    
+    section Job Prep
+    Resume Optimization :crit, job1, 2025-07-01, 3d
+    Remote Job Applications :crit, job2, after job1, 30d
+```
 
 ## 📚 Course Code
 - [01_HelloWeb3.sol](https://gist.github.com/lunarun/dd5729a5d3eb59a8beeb39e23b080e0c)  
