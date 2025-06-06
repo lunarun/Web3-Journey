@@ -2,7 +2,7 @@
 
 **Lesson Source:** [WTF Solidity - Lesson 3: Function](https://www.wtf.academy/en/course/solidity101/Function)
 
-**Related Code:** [`03_Function.sol`]()
+**Related Code:** [`03_Function.sol`](/labs/03_function/contract.sol)
 
 ---
 
