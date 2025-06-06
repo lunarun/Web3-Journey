@@ -42,13 +42,18 @@ pnpm hardhat test
 |              |            |           |        |
 
 ## 📬 Recent Progress
-- 2025-05-30: Completed 01 Hello Web3 Contract & Notes
-- 2025-06-03: Completed 02 & 03 Value Types & Function Contract & Notes
+- 2025-06-03: Completed 02 & 03 Value Types & Function Contract & Notes.
+- 2025-06-05: Completed 04 & 05 Function Output and Data Storage.
+- 2025-06-06：Completed 05-Scope and a simple auction contract.
 
 
 ## 📚 Course Code
-- [01_HelloWeb3.sol](labs/01_hello-web3/contract.sol)  
-- [02_ValueTypes.sol](labs/02_value_types/contract.sol)  
+- [01_HelloWeb3.sol](/labs/01_hello-web3/contract.sol)  
+- [02_ValueTypes.sol](/labs/02_value_types/contract.sol)  
+- [03_Function.sol](/labs/03_function/contract.sol)
+- [04_FunctionOutput.sol](/labs/04_function_output/contract.sol)
+- [05_DataStorage.sol](/labs/05_storage_scope/contract.sol)
+- [05_DataScope_SimpleAuctionContract.sol](/labs/05_scope_simple_auction/contract.sol)
 
 ## 📝 Study Notes
 - [01-HelloWeb3.md](notes/01-HelloWeb3.md)
