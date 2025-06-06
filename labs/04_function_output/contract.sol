@@ -53,7 +53,7 @@ contract FunctionOutput{
             // without explicit return (a, b, arr)
         }
 
-        // 
+        // partial read
         function demoPartial() public pure returns (
             bool onlyBool
         ){
