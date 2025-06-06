@@ -52,12 +52,16 @@ pnpm hardhat test
 - [02_ValueTypes.sol](/labs/02_value_types/contract.sol)  
 - [03_Function.sol](/labs/03_function/contract.sol)
 - [04_FunctionOutput.sol](/labs/04_function_output/contract.sol)
-- [05_DataStorage.sol](/labs/05_storage_scope/contract.sol)
+- [05_DataStorage.sol](/labs/05_storage_and_scope/contract.sol)
 - [05_DataScope_SimpleAuctionContract.sol](/labs/05_scope_simple_auction/contract.sol)
 
 ## 📝 Study Notes
-- [01-HelloWeb3.md](notes/01-HelloWeb3.md)
-- [02-Value Types.md](notes/02-Value-Types.md)
+- [01-HelloWeb3.md](/docs/notes/01-hello-web3.md)
+- [02-ValueTypes.md](/docs/notes/02_value_types.md)
+- [03_Function.md](/docs/notes/03_function.md)
+- [04_FunctionOutput.md](/docs/notes/04_function_output.md)
+- [05_DataStorage.md](/docs/notes/05_data_storage.md)
+
 
 ## 🤝 Support Me
 - **Star this repository**：Motivate me to keep updating!
