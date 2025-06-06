@@ -22,3 +22,24 @@ function <function name>(<parameter types>) [public|private|internal|external] [
   * **public|private|internal** can be also used on state variables. Public variables will automatically generate getter functions for querying values. Note 2: .
   * **[pure|view|payable]**: Keywords that dictate a Solidity functions behavior. payable is easy to understand. One can send ETH to the contract via payable functions.
   * **[returns (<return types>)]**: Return variable types and names.
+* **[pure|view|payable]:**
+  
+| State Mutability Modifiers       | Description       |
+| --------- | -------- |
+| `view`    | read only，cannot modify the state |
+| `pure`    | cannot read or write any state variables, cannot modify the state  |
+| `payable` | can receive Ether (ETH)  |
+
+* (No keywords):
+    * Functions without pure, view, or payable can read and write state variables.
+    * Always consume gas when called on-chain.
+
+
+## 2.Special Functions
+* ```constructor()```:
+    * A special function executed only once when the contract is deloyed.
+    * Used for initial setup, like setting the contract owner.
+* ```receive()``` (external payable)
+* ```fallback()``` (external payable/non-payable)
+
+  
