@@ -1,6 +1,6 @@
 # 📝 03 - Function
 
-**Lesson Source:** [WTF Solidity - Lesson 3: Value Types](https://www.wtf.academy/en/course/solidity101/Function)
+**Lesson Source:** [WTF Solidity - Lesson 3: Function](https://www.wtf.academy/en/course/solidity101/Function)
 
 **Related Code:** [`03_Function.sol`]()
 
